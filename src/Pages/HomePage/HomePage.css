@@ -1,0 +1,39 @@
+.home-page-container{
+    margin: 50px 10px;
+}
+
+.student-form-flex-container{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.student-form-flex-container:nth-child(2)
+{
+    margin-left: 50px;
+}
+
+.student-details-table-container{
+    margin-top: 30px;
+}
+
+.button-container{
+    display: flex;
+}
+
+table {
+font-family: arial, sans-serif;
+border-collapse: collapse;
+width: 100%;
+}
+
+td, th {
+border: 1px solid #c7c3c3;
+text-align: left;
+padding: 8px;
+}
+
+.table-head {
+background-color: #ebebeb;
+}

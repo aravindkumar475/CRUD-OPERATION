@@ -1,2 +1,3 @@
-# CRUD-OPERATION
-This is an ordinary Application 
+# Student CRUD APP
+
+A simple CRUD operations with arrays in react
